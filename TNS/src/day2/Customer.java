@@ -7,7 +7,7 @@ public class Customer {
 	private String address;
 	private String city;
 
-	// Getter for cid
+	// Getter for cid   
 	public int getCid() {
 		return cid;
 	}
